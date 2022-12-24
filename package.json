@@ -1,0 +1,15 @@
+{
+  "name": "js-demo",
+  "version": "1.0.0",
+  "description": "JavaScript Introduction &amp; Demo Examples",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": [],
+  "directories": {
+    "test": "test"
+  }
+}
