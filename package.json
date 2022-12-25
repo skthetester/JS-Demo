@@ -11,5 +11,8 @@
   "keywords": [],
   "directories": {
     "test": "test"
+  },
+  "dependencies": {
+    "chai": "^4.3.7"
   }
 }
